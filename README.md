@@ -33,11 +33,6 @@ c. Click the 'submit' button.
 d. Wait for the simulations to complete. Final results will be displayed after processing is complete.
 
 
-## Purpose
-The project 'Virtual Memory Management Simulator' has been created as a mini project for the course IT253- Operating Systems.
-
-
 ## Contributors
-- Pratham Nayak     	(191IT241)
-- Aprameya Dash     	(191IT209)
 - Suyash Chintawar  	(191IT109)
+- Aditya Sharma      (201MN003)
